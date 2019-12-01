@@ -1,5 +1,7 @@
 # CDAC-Project
-Machine Learning Project
+
+# Power Line Fault Detection Using Machine Learning and Deep Learning
+
 Partial discharge and uneven voltages are the reason for various electrical
 hazards. Once begun, Partial Discharge causes progressive deterioration of
 insulating materials, ultimately leading to electrical breakdown. The effects of
